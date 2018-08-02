@@ -22,4 +22,6 @@ Text Summarization involves two Approaches
 2. LSA
 3. Gensim 
 
-find Sample File here(https://github.com/ashishpal2702/NLP/tree/master/Text%20Summarization/Extractive_Text_Summarization.ipynb)
+find Sample File here- 
+Extractive_Text_Summarization.ipynb 
+(https://github.com/ashishpal2702/NLP/tree/master/Text%20Summarization)
