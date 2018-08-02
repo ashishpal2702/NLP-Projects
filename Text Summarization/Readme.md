@@ -24,4 +24,4 @@ Text Summarization involves two Approaches
 
 find Sample File here- 
 Extractive_Text_Summarization.ipynb 
-(https://github.com/ashishpal2702/NLP/tree/master/Text%20Summarization)
+https://github.com/ashishpal2702/NLP/blob/master/Text%20Summarization/Extractive_Text%20_Summarization.ipynb
